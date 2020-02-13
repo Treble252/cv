@@ -1,15 +1,47 @@
+a {
+    text-decoration: none;
+    color: #a2d5f2;
+}
+
+a:hover {
+    color: #ff7e67;
+}
+
 body{
-    background-color: #a2d5f2;
+    background-color: #07689f;
 }
 
 hr{
     width: 5%;
-    border-color: #fafafa;
+    border-color: #ff7e67;
     border-style: dotted none none;
     border-width: 5px;
 }
 
 h1, h3 {
-    color: #07689f;
+    color: #a2d5f2;
 }
 
+li {
+    color: #fafafa;
+}
+
+p {
+    color: #fafafa;
+}
+
+td {
+    color: #fafafa;
+}
+
+#photo {
+    border-radius: 100%;
+}
+
+.tableHeader {
+    color: #a2d5f2;
+}
+
+.links{
+    padding-left: 10px;
+}
